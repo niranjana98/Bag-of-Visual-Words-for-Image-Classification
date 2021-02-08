@@ -1,1 +1,1 @@
-# Bag-of-Visual-Words
+# Bag of Visual Words
